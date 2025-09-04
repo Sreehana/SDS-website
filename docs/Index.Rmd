@@ -1,0 +1,35 @@
+---
+title: "website"
+output: html_document
+date: "2025-08-29"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome! I'm Sreehana Mandava!
+
+```{r}
+#| echo: false
+#| message: false
+{knitr::include_graphics("/Users/sreehanamandava/Desktop/headshot/Headshot_final.png")}
+```
+
+I am a Senior majoring in Informatics at UT Austin. I am passionate about building usable consumer facing products that make an impact. Through this course, I hope to understand how to leverage quantitative data to make product decisions, adding on to my existing qualitative research skills.
+
+When I'm not working, I like to:
+
+-   Watch sitcoms (Brooklyn nine-nine is the BEST!)
+
+-   Read books
+
+-   Explore ice cream shops around Austin
+
+The link to my GitHub account is: <https://github.com/Sreehana>
+
+```{r}
+#| echo: false
+#| message: false
+Sys.time()
+```
